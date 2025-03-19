@@ -19,7 +19,7 @@ User Identification – The email address is only used internally for leaderboar
 We do not use your data for marketing, tracking, or advertising.
 
 3. Third-Party Services
-We use KeepTheScore.com to manage and display the game's leaderboard.
+We use Firebase firestore to manage and display the game's leaderboard.
 This service stores and processes your username and score according to its Privacy Policy.
 
 We do not share your email with any third-party services.
